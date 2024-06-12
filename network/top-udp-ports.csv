@@ -1,0 +1,13 @@
+53,dns
+67,dhcp
+111,nfs
+123,ntp
+137,netbios
+138,netbios
+500,ipsec
+547,dhcpv6
+623,ipmi
+1434,mssql
+2049,nfs
+5060,sip
+5061,sips

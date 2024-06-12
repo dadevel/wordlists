@@ -1,0 +1,10 @@
+cfg
+conf
+config
+json
+md
+rst
+txt
+xml
+yaml
+yml

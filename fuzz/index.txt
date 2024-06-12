@@ -1,0 +1,7 @@
+index
+app
+robots
+readme
+README
+license
+LICENSE

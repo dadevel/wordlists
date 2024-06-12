@@ -1,0 +1,15 @@
+.bashrc
+.bash_profile
+.config/git/config
+.config/git/credentials
+.gitconfig
+.git-credentials
+.profile
+.ssh/config
+.ssh/id
+.ssh/id_rsa
+.ssh/id_dsa
+.ssh/id_ed25519
+.vimrc
+.zprofile
+.zshrc

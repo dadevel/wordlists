@@ -1,0 +1,13 @@
+proc/mounts
+proc/net/arp
+proc/net/fib_trie
+proc/net/route
+proc/net/tcp
+proc/net/udp
+proc/sched_debug
+proc/self/cmdline
+proc/self/cwd/FUZZ
+proc/self/environ
+proc/FUZZ/cmdline
+proc/FUZZ/environ
+proc/version

@@ -1,0 +1,10 @@
+Windows/win.ini
+Windows/System32/drivers/etc/hosts
+Program Files/FileZilla Server/FileZilla Server.xml
+xampp/properties.ini
+xampp/apache/logs/access.log
+xampp/apache/logs/error.log
+inetpub/wwwroot/web.config
+inetpub/wwwroot/FUZZ/web.config
+Users/Administrator/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+Users/FUZZ/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt

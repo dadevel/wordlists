@@ -1,0 +1,12 @@
+\\localhost\c$\windows\win.ini
+\\\\localhost\\c$\\windows\\win.ini
+//localhost/c$/windows/win.ini
+\\localhost@80\test
+\\\\localhost@80\test
+//localhost@80/test
+\\attacker.com\test
+\\\\attacker.com\\test
+//attacker.com/test
+\\attacker.com@80\test
+\\\\attacker.com@80\\test
+//attacker.com@80/test

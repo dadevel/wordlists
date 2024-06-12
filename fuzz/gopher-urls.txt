@@ -1,0 +1,2 @@
+gopher://127.0.0.1:80/_GET%20/test%20HTTP/1.1%0a
+gopher://attacker.com:80/_GET%20/test%20HTTP/1.1%0a

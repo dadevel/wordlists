@@ -1,0 +1,4 @@
+SELECT pg_sleep(10)
+SELECT sleep(10)
+WAITFOR DELAY '0:0:10'
+dbms_pipe.receive_message(('a'),10)

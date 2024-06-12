@@ -1,0 +1,11 @@
+asp
+aspx
+dll
+htm
+html
+js
+jsp
+lua
+php
+py
+sh

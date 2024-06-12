@@ -1,0 +1,10 @@
+root
+ftp
+ftp1
+ftp01
+ftpusr
+ftpusr1
+ftpusr01
+ftpuser
+ftpuser1
+ftpuser01

