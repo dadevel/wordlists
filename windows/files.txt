@@ -8,3 +8,11 @@ inetpub/wwwroot/web.config
 inetpub/wwwroot/FUZZ/web.config
 Users/Administrator/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
 Users/FUZZ/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+Windows/repair/SAM
+Windows/System32/config/RegBack/SAM
+Windows/System32/config/SAM
+unattend.xml
+Windows/Panther/Unattend.xml
+Windows/Panther/Unattend/Unattend.xml
+Windows/system32/sysprep.inf
+Windows/system32/sysprep/sysprep.xml
